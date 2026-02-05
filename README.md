@@ -29,6 +29,7 @@ Sau khi hoàn thành môn học, sinh viên có thể:
 ---
 
 ## 📂 Cấu trúc thư mục
+```txt
 web-fundamentals/
 │
 ├── html/
