@@ -32,25 +32,23 @@ Sau khi hoàn thành môn học, sinh viên có thể:
 web-fundamentals/
 │
 ├── html/
-│ ├── lesson1.html
-│ ├── lesson2.html
+│   ├── lesson1.html
+│   └── lesson2.html
 │
 ├── css/
-│ ├── style.css
+│   └── style.css
 │
 ├── js/
-│ ├── script.js
+│   └── script.js
 │
 ├── assets/
-│ └── images/
+│   └── images/
 │
 ├── exercises/
-│ ├── exercise1.html
-│ ├── exercise2.html
+│   ├── exercise1.html
+│   └── exercise2.html
 │
 └── README.md
-
----
 
 ## 📚 Mô tả nội dung
 ### 📂 Thư mục `html/`
